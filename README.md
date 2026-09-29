@@ -2,7 +2,7 @@
 Estudante de Desenvolvimento de Sistemas | Focado em JavaScript
 
 ## Sobre mim 
-- Atualmente cursando Técnico em Desenvolvimento de Sistemas
+- Atualmente cursando Técnico em Desenvolvimento de Sistemas e Técnico em Contabilidade
 
 ## Tecnologias que estudo 
 <div style="display: inline_block"><br>
