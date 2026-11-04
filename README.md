@@ -1,5 +1,5 @@
 # Olá, eu sou o Kaio Henrique
-Estudante de Desenvolvimento de Sistemas | Focado em JavaScript
+Estudante de Desenvolvimento de Sistemas
 
 ## Sobre mim 
 - Atualmente cursando Técnico em Desenvolvimento de Sistemas e Técnico em Contabilidade
